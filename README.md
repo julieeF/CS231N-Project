@@ -8,7 +8,7 @@ S. Narayanan. Iemocap: Interactive emotional dyadic motion
 capture database, December 2008
 
 
-For preprocessing of data provide the "path to input data" in "DATA_PREPROCESSING.ipynb" jupiter.
+For preprocessing of data provide the "path to input data" in "DATA_PREPROCESSING.ipynb" jupyter notebook.
 *********************
 //input path
 iemocap_full_release_path = "/home/mandeep_stanford/cs231n_project/IEMOCAP_full_release/"
