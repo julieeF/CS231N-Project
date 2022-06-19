@@ -17,3 +17,11 @@ iemocap_pre_processed_data_path = "/home/mandeep_stanford/cs231n_project/code/pr
 *********************
 
 Provide the path to the input data in the code and the code will execute. You will have to maintain directory structure & file names for the training code to work.
+
+
+
+Cite this work as:
+********************
+M. Singh and Y. Fang, “Emotion recognition in audio and video using
+deep neural networks,” arXiv, vol. abs/2006.08129, 2020.
+********************
