@@ -1,5 +1,7 @@
 # CS231N-Project
 
+Project presentation at "https://youtu.be/mYM9DRypGQk"
+
 "IEMOCAP" is the input data which can be requested from University of Southern California. Due to licensing we cannot share the data.
 
 Relevant paper for "IEMOCAP" input data is:
